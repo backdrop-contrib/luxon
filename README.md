@@ -20,7 +20,7 @@ More details may be found (or contributed to) in the [Wiki](https://github.com/b
 Issues
 ------
 
-Bugs and Feature requests should be reported in the [Issue Queue](https://github.com/backdrop-contrib/luxon/issues)
+Bugs and feature requests should be reported in the [Issue Queue](https://github.com/backdrop-contrib/luxon/issues).
 
 Current Maintainer
 --------------------
